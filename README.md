@@ -4,16 +4,16 @@
 
 ## About me :
 
-- Currently in my 2nd at the IIM in Web Development
+- 👷 Currently in my **2nd at the IIM** in Web Development
 
-- Trying to improve and become a back-end developper
+- 🚧 Trying to improve and become a **back-end developper**
 
-- Doing a bit of communication too for my school club
+- 📈 **Responsible of the communication** for my school club
 
-- For any demand contact me <a href="mailto:thomascandille0508@gmail.com">right here</a>
+- ✅ For any demand contact me  <a href="mailto:thomascandille0508@gmail.com">right here</a>
 
 ## Favorite langages
->langages that i like working with right now in order :
+>*langages that i like working with right now in order :*
 
 <img src="img/Javascript-736400_960_720.png" width="48" height="48" alt="JavaScript"></img>
 <img src="img/PHP-logo.svg" width="48" height="48" alt="PhP"></img>
@@ -26,8 +26,16 @@
 
 ### Things I Love in life :
 
-- Playing video games either alone or with friends
+- 🚩 **Playing video games** either alone or with friends
 
-- Underwater Hockey ~~no one know that this sport exist~~, 10 years of esperience
+- 🔥 **Underwater Hockey** ~~no one know that this sport exist~~, 10 years of esperience
 
-- Completely useless facts about everything
+- 🐛 Completely useless facts about everything
+
+## Look at my github stats !
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasCandille&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## This thing mean a lot for me...
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello_There&author=General_Kenobi)](https://github.com/piyushsuthar/github-readme-quotes)
