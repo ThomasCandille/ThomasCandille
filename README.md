@@ -20,7 +20,7 @@
 <img src="img/Python-logo-notext.svg" width="48" height="48" alt="Python"></img>
 <img src="img/logo-mysql-170x115.png" width="48" height="48" alt="MySQL"></img>
 <img src="img/icons8-html-5.svg" width="48" height="48" alt="HTML"></img>
-<img src="img/CSS.3.svg" width="48" height="48" alt="CSS"></img>
+<img src="img/CSS3_logo.svg" width="48" height="48" alt="CSS"></img>
 
 ## Some more personnal things
 
