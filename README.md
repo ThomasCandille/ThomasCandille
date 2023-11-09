@@ -31,11 +31,3 @@
 - 🔥 **Underwater Hockey** ~~no one know that this sport exist~~, 10 years of esperience
 
 - 🐛 Completely useless facts about everything
-
-## Look at my github stats !
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasCandille&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## This thing mean a lot for me...
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello_There&author=General_Kenobi)](https://github.com/piyushsuthar/github-readme-quotes)
