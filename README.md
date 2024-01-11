@@ -6,7 +6,7 @@
 
 - 👷 Currently in my **2nd at the IIM** in Web Development
 
-- 🚧 Trying to improve and become a **back-end developper**
+- 🚧 Trying to improve and become a **full-stack developper**
 
 - 📈 **Responsible of the communication** for my school club
 
