@@ -31,3 +31,5 @@
 - 🔥 **Underwater Hockey** ~~no one know that this sport exist~~, 10 years of esperience
 
 - 🐛 Completely useless facts about everything
+
+[![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasCandille)](https://github.com/anuraghazra/github-readme-stats)
