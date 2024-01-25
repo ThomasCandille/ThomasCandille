@@ -16,11 +16,11 @@
 >*langages that i like working with right now in order :*
 
 <img src="img/Javascript-736400_960_720.png" width="48" height="48" alt="JavaScript"></img>
-<img src="img/PHP-logo.svg" width="48" height="48" alt="PhP"></img>
-<img src="img/Python-logo-notext.svg" width="48" height="48" alt="Python"></img>
-<img src="img/logo-mysql-170x115.png" width="48" height="48" alt="MySQL"></img>
-<img src="img/icons8-html-5.svg" width="48" height="48" alt="HTML"></img>
 <img src="img/CSS3_logo.svg" width="48" height="48" alt="CSS"></img>
+<img src="img/icons8-html-5.svg" width="48" height="48" alt="HTML"></img>
+<img src="img/Python-logo-notext.svg" width="48" height="48" alt="Python"></img>
+<img src="img/PHP-logo.svg" width="48" height="48" alt="PhP"></img>
+<img src="img/logo-mysql-170x115.png" width="48" height="48" alt="MySQL"></img>
 
 ## Some more personnal things
 
