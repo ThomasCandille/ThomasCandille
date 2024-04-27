@@ -4,13 +4,13 @@
 
 ## About me :
 
-- 👷 Currently in my **2nd at the IIM** in Web Development
+- 👷 Currently in my **2nd year at the IIM** in Web Development
 
-- 🚧 Trying to improve and become a **full-stack developper**
+- 🚧 TImproving to become a **full-stack developper or project manager**
 
-- 📈 **Responsible of the communication** for my school club
+- 📈 **Head of the communication** for my school club
 
-- ✅ For any demand contact me  <a href="mailto:thomascandille0508@gmail.com">right here</a>
+- ✅ For any demand contact me  <a href="mailto:thomascandille.contact@gmail.com">right here</a>
 
 ## Favorite langages
 >*langages that i like working with right now in order :*
