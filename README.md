@@ -4,11 +4,11 @@
 
 ## About me :
 
-- 👷 Currently in my **2nd year at the IIM** in Web Development
+- 👷 Currently in my **3rd year at the IIM** in Web Development
 
-- 🚧 TImproving to become a **full-stack developper or project manager**
+- 🚧 TImproving to become a **front-end developper or project manager**
 
-- 📈 **Head of the communication** for my school club
+- 📈 **President** for my school club
 
 - ✅ For any demand contact me  <a href="mailto:thomascandille.contact@gmail.com">right here</a>
 
@@ -19,7 +19,6 @@
 <img src="img/CSS3_logo.svg" width="48" height="48" alt="CSS"></img>
 <img src="img/icons8-html-5.svg" width="48" height="48" alt="HTML"></img>
 <img src="img/Python-logo-notext.svg" width="48" height="48" alt="Python"></img>
-<img src="img/PHP-logo.svg" width="48" height="48" alt="PhP"></img>
 <img src="img/logo-mysql-170x115.png" width="48" height="48" alt="MySQL"></img>
 
 ## Some more personnal things
